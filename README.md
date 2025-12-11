@@ -22,8 +22,6 @@ Implementations and experiment scripts for all benchmarked link-prediction basel
 
 Includes both heuristic methods and embedding-based models
 
-Parameter settings consistent with the paper’s experimental protocol
-
 ### Nine Benchmark Datasets
 
 All datasets used in the paper are included in the /data/ directory
